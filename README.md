@@ -1,1 +1,1 @@
-## coding of all major algorithms ##
+## coding all major algorithms ##
